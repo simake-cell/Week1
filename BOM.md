@@ -12,13 +12,9 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| Conn_01x08_Pin | — | 1 | $0.00 | $0.00 | — |
-| [R](https://www.amazon.com/gp/product/B0BR68QQPF/ref=ox_sc_act_title_2?smid=A2XLLJ8H) | Power contol | 1 | $3.99 | $3.99 | [Amazon](https://www.amazon.com/gp/product/B0BR68QQPF/ref=ox_sc_act_title_2?smid=A2XLLJ8H) |
-| SW_Push | — | 1 | $0.00 | $0.00 | — |
-| [XIAO-ESP32-C3-SMD](https://www.amazon.com/gp/product/B0B94JZ2YF/ref=ox_sc_act_title_4?smid=A1YP59NGBNBZUR&psc=1) | Microcontroller | 1 | $9.90 | $9.90 | [Amazon](https://www.amazon.com/gp/product/B0B94JZ2YF/ref=ox_sc_act_title_4?smid=A1YP59NGBNBZUR&psc=1) |
 | [DHT11](https://www.amazon.com/gp/product/B07WT2HJ4F/ref=ox_sc_act_title_3?smid=A2Z10KY0342329&psc=1) | Humidity sensor | 1 | $5.99 | $5.99 | [Amazon](https://www.amazon.com/gp/product/B07WT2HJ4F/ref=ox_sc_act_title_3?smid=A2Z10KY0342329&psc=1) |
-| **Parts subtotal** | — | — | — | **$19.88** | — |
+| **Parts subtotal** | — | — | — | **$5.99** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$19.88** | — |
+| **Total** | — | — | — | **$5.99** | — |
 
-$10.12 left of the tier's funding.
+$24.01 left of the tier's funding.
